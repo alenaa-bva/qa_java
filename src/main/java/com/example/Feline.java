@@ -2,6 +2,9 @@ package com.example;
 
 import java.util.List;
 
+
+//наследник класса Animal
+//реализует интерфейс Predator
 public class Feline extends Animal implements Predator {
 
     @Override
